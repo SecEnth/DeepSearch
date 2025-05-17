@@ -1,14 +1,13 @@
 # DeepSearch
-DeepSearch
 
 ## Description  
-DeepSearch is a Python script that automates 
+DeepSearch is a Python script that automates web search and focuses on finding hidden content.
 
 ## Features  
-- Search for keywords in files  
-- Filter and sort search results  
-- Support for multiple file formats (e.g., TXT, CSV)  
-- [add more features here]
+- Automated Google and Yandex search using advanced dorking operators 
+- 
+
+
 
 ## Requirements & Dependencies 
 - Python 3.x  
@@ -17,3 +16,8 @@ DeepSearch is a Python script that automates
   - `requests`
   - `bs4`
   - `pytest`
+
+## Installation 
+
+
+## Contact
