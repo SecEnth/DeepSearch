@@ -7,8 +7,6 @@ DeepSearch is a Python script that automates web search and focuses on finding h
 - Automated Google and Yandex search using advanced dorking operators 
 - 
 
-
-
 ## Requirements & Dependencies 
 - Python 3.x  
 - Required libraries:  
@@ -21,3 +19,8 @@ DeepSearch is a Python script that automates web search and focuses on finding h
 
 
 ## Contact
+
+
+## Ethical disclaimer
+
+##
