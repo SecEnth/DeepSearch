@@ -19,7 +19,8 @@ DeepSearch is a Python script that automates web search and focuses on finding h
   - `pytest`
 
 ## Installation 
-```python -m venv env  
+```
+python -m venv env  
 source env/bin/activate  # Linux/Mac  
 env\Scripts\activate     # Windows
 ```  
