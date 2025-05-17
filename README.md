@@ -13,6 +13,7 @@ DeepSearch is a Python script that automates web search and focuses on finding h
 - Python 3.10 =<
 - Required libraries:  
   - `user_agent`
+  - `colorama`
   - `requests`
   - `bs4`
   - `pytest`
